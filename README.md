@@ -24,6 +24,11 @@ Sistema de console desenvolvido em **C# (.NET)** para gerenciamento e triagem de
    ```bash
    git clone https://github.com
    ```
-2. Abra o arquivo de solução (`Clinica medica 3.slnx`) no **Visual Studio**.
-3. Pressione `F5` (ou clique em **Iniciar**) para compilar e executar o programa.
+## 🚀 Como executar o projeto
+1. Clone este repositório:
+   bash
+   git clone https://github.com
+   
+2. Abra o arquivo de solução (Clinica medica 3.slnx) no *Visual Studio*.
+3. Pressione F5 (ou clique em *Iniciar*) para compilar e executar o programa.
 4.
